@@ -2,7 +2,7 @@
 Autographa is a robust open-source editor designed primarily for aiding Bible Translation. This repository exists to document to maintain the current roadmap of Autographa and also track progress.
 
 ## Structure
-Each roadmap item would ideally be modelled as a GitHub [`milestone`](https://github.com/friendsofagape/autographa-roadmap/milestones). 
+Each roadmap item would ideally be modeled as a GitHub [`milestone`](https://github.com/friendsofagape/autographa-roadmap/milestones). 
 
 Each `milestone` in-turn consists of one or more [`issues`](https://github.com/friendsofagape/autographa-roadmap/issues) which would cover the scope of work entailed to successfully complete the parent `milestone`. Sometimes a single `issue` may contain a list of links to `issues` in other relevant repositories. The `issues` are tagged with relevant information as well as assignees when meaningful to do so.
 
